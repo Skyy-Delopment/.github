@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://imgur.com/a/tsYUY2M.png" />
+  <img width="100" src="https://i.imgur.com/a/tsYUY2M.png" />
 </p>
 
 <h1 align="center">Skyy-Development / TicTacToe</h1>
