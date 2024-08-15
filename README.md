@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/AtomLabss/.github/main/assets/images/atomgg.png?s=200&v=4" />
+  <img width="100" src="https://imgur.com/a/tsYUY2M" />
 </p>
 
 <h1 align="center">Skyy-Development / TicTacToe</h1>
